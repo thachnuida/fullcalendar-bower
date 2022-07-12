@@ -1,0 +1,8 @@
+{
+  "name": "fullcalendar",
+  "version": "5.11.0",
+  "main": [
+    "main.js", 
+    "main.css"
+  ]
+}
